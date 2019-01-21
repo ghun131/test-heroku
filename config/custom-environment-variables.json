@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "test-deployment_jwtPrivateKey",
+  "db": "test-deployment"
+}
